@@ -57,6 +57,4 @@ _Include high-quality screenshots here to showcase the stunning design._
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Built with ❤️ by Antigravity AI
